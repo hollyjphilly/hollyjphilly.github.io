@@ -17,6 +17,8 @@
 		max-width: 100%;
 		z-index: 3;
 
+		
+
 		article {
 			@include vendor('transform', 'translateY(0.25rem)');
 			@include vendor('transition', (
